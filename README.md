@@ -19,7 +19,7 @@ Kubernetes The Hard Way guides you through bootstrapping a highly available Kube
 * [gVisor](https://github.com/google/gvisor) latest nightly build
 * [CNI Container Networking](https://github.com/containernetworking/cni) 0.7.5
 * [etcd](https://github.com/coreos/etcd) v3.3.13
-* [CoreDNS](https://github.com/coredns/coredns) v1.2.2
+* [CoreDNS](https://github.com/coredns/coredns) v1.4.0
 
 ## Labs
 
@@ -39,3 +39,4 @@ This tutorial assumes you have access to the [Google Cloud Platform](https://clo
 * [Deploying the DNS Cluster Add-on](docs/12-dns-addon.md)
 * [Smoke Test](docs/13-smoke-test.md)
 * [Cleaning Up](docs/14-cleanup.md)
+* [Troubleshooting](docs/15-troubleshooting.md)
